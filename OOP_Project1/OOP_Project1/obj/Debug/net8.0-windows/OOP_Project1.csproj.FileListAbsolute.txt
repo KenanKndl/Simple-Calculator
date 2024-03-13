@@ -1,0 +1,16 @@
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\bin\Debug\net8.0-windows\OOP_Project1.exe
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\bin\Debug\net8.0-windows\OOP_Project1.deps.json
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\bin\Debug\net8.0-windows\OOP_Project1.runtimeconfig.json
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\bin\Debug\net8.0-windows\OOP_Project1.dll
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\bin\Debug\net8.0-windows\OOP_Project1.pdb
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.Form1.resources
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.csproj.GenerateResource.cache
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.AssemblyInfoInputs.cache
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.AssemblyInfo.cs
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.csproj.CoreCompileInputs.cache
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.dll
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\refint\OOP_Project1.dll
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.pdb
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\OOP_Project1.genruntimeconfig.cache
+C:\Users\Lenz\source\repos\OOP_Project1\OOP_Project1\obj\Debug\net8.0-windows\ref\OOP_Project1.dll
